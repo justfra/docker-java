@@ -1,4 +1,4 @@
-FROM docker-alpine:latest
+FROM gliderlabs/alpine:latest
 MAINTAINER Vladimir Krivosheev <develar@gmail.com>
 
 ENV JAVA_VERSION_MAJOR=8  \
