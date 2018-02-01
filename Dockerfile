@@ -1,4 +1,4 @@
-FROM alpine:3.3
+FROM docker-alpine:latest
 MAINTAINER Vladimir Krivosheev <develar@gmail.com>
 
 ENV JAVA_VERSION_MAJOR=8  \
